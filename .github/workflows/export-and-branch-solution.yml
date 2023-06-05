@@ -27,7 +27,8 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: <https://eftposdev.crm4.dynamics.com/>
-  USERNAME: <KgomotsoS@card.connected.co.za>
+  CLIENT_ID: '<631fa82f-5a7a-4046-ac70-7f5dc1ccb27f>'
+  TENANT_ID: '<e7ab307f-8384-42b2-b189-73101ddfeb43>'
 
 permissions:
   contents: write
